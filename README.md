@@ -10,4 +10,4 @@ Task 1: Calculator : https://github.com/Mananm16/OIBSIP/blob/df7dd4f526cbdbeba86
 
 Languages: HTML, CSS, Javascript
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/manan-pobari-71071a1a2
