@@ -6,7 +6,7 @@ Web Development and Designing
 
 Level 2 :- 
 
-Task 2: Tribute Page : 
+Task 2: Tribute Page : https://github.com/Mananm16/OIBSIP/tree/task2
 
 Languages: HTML, CSS
 
