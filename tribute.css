@@ -1,0 +1,80 @@
+.main{
+    max-width: 1300px;
+    max-height: 100%;
+    margin: 30px auto;
+    padding: 15px;
+    background: #eeeeee;
+    border-radius: 5px;
+}
+.main h1{
+    text-align: center;
+    font-family: cursive;
+    color: black; 
+}
+.main h4{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+}
+.tri1{
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 15px;
+    background-color:white;
+    }
+.tri1 img{
+    display: block;
+    max-width: 100%;
+    background:none;
+    border: 10px;
+}
+.caption h4{
+    text-align: center;
+    font-size: 16px;
+}
+.my{
+    max-width: 1300px;
+    max-height: 100%;
+    margin: 30px auto;
+    padding: 15px;
+    background-color:#eeeeee;
+    border-radius: 5px;
+}
+.intro p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    font-size: 17px;
+    padding: 10px;
+}
+blockquote {
+    font-style: Italic;
+}
+.tribute content{
+    max-width: 600px;
+    margin: 0 auto;
+}
+.t1{
+    font-size: 25px;
+    text-align: center;
+    color: darkblue
+}
+.timeline ul{
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+    text-align: left;
+}
+.timeline li {
+    padding-left: 6em;
+    text-indent:-1em;;
+    font-family: Arial, Helvetica, Sans-Serif;
+    font-size: 17px;
+    line-height: 1.4;
+}
+.timeline li:before {
+    content: "►";
+    padding-right: 5px;
+}
+h3{
+    text-align: center;
+}
