@@ -1,0 +1,15 @@
+.blue {
+    color:blue;
+}
+.red {
+    color:lightcoral;
+}
+.blue {
+    color:skyblue
+}
+.font{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#itemList { font-size: 1.5rem;}
+.show { display: block;}
+.hide { display: none;}
